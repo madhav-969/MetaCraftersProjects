@@ -19,6 +19,8 @@ This repository contains the code and resources for my training program, allowin
 The Training consists of following Courses:
 
 Course 1: JS PROOF: Beginner Course
+<br>
+
 Course 2: ETH PROOF: Beginner Course
  
 
