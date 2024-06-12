@@ -1,2 +1,3 @@
 # MetaCraftersProjects
-This is repository for MetaCrafters Projects.
+
+Summer Training Program on Blockchain in collaboration with Metacrafters by Chandigarh University
