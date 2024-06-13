@@ -10,9 +10,9 @@
   
 # Description 
 This repository contains the code and resources for the assignments and projects required to complete the program on the blockchain technology. By this I am gaining new knowledge and experience on the vast pool of technologies like Ethereum, Solidity, JavaScript, etc.
+Moreover I can gain NFTs and many more perks with the help of this summer training. By gaining hands on experience on web3, it can open new opportunities in my career
 
 
-This repository contains the code and resources for my training program, allowing you to explore the exciting world of blockchain technology and view the project I have developed. I have gained hands-on experience with Ethereum, Solidity, JavaScript, and other tools to develop a **Social Network Application using Blockchain**. Additionally, I have acquired NFTs that represent my achievements in this training program.
 
 ## Course Overview 
 
